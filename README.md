@@ -15,6 +15,7 @@
         <a href="#my-profile">My Profile</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
+      <a  href="#Hobbies">Hobbies</a>
     </nav>
     <section id="about-me">
         <h2>About Me</h2>
@@ -35,6 +36,16 @@
             <li>Version Control: Git, GitHub</li>
         </ul>
     </section>
+    <section id="hobbies">
+    <h2>Hobbies</h2>
+    <p>When I'm not studying or working on projects, I enjoy:</p>
+    <ul>
+        <li>Writing and experimenting with code to build innovative solutions</li>
+        <li>Exploring new programming languages and frameworks</li>
+        <li>Playing video games to unwind</li>
+        <li>Reading tech blogs and watching tutorials</li>
+    </ul>
+</section>
     <section id="projects">
         <h2>Projects</h2>
         <p>Here are some of the projects I have worked on:</p>
