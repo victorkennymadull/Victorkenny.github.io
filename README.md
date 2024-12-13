@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Victor Kenny</h1>
+        <h1>VictorKenny</h1>
         <p>Computer Science Student | University of South Wales</p>
     </header>
     <nav>
@@ -19,7 +19,7 @@
     </nav>
     <section id="about-me">
         <h2>About Me</h2>
-        <p>Hello! I'm Victor Kenny, a passionate computer science student at the University of South Wales. I am dedicated to learning and building innovative solutions in the tech world. I enjoy programming, solving problems, and exploring new technologies.</p>
+        <p>Hello! I'm Alabi kehinde Victor, a passionate computer science student at the University of South Wales. I am dedicated to learning and building innovative solutions in the tech world. I enjoy programming, solving problems, and exploring new technologies.</p>
     </section>
     <section id="my-profile">
         <h2>My Profile</h2>
