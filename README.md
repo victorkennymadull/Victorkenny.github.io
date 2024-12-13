@@ -45,6 +45,8 @@
         <li>Playing video games to unwind</li>
         <li>Reading tech blogs and watching tutorials</li>
     </ul>
+        I have always loved to play football since i was a kid , I love to listen to music 
+I love to watch and play football, skating , swimming, hiking and dancing.
 </section>
     <section id="projects">
         <h2>Projects</h2>
